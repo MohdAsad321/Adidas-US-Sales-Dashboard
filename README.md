@@ -14,22 +14,22 @@ The dashboard is designed to help business teams and stakeholders quickly unders
 * This dashboard helps improve decision-making related to marketing, inventory, and sales strategy.
 
 # Key Insights -->
-Which regions generate the highest revenue
-Best-performing product categories (e.g., Running, Originals, Outdoor)
-Sales comparison across months/years
-Retailers contributing most to Adidas sales
-Profitability across states and seasons.
+* Which regions generate the highest revenue
+* Best-performing product categories (e.g., Running, Originals, Outdoor)
+* Sales comparison across months/years
+* Retailers contributing most to Adidas sales
+* Profitability across states and seasons.
 
 # Teck Stacks -->
-Data Cleaning & Transformation
-Pivot Tables & Charts
-Interactive Dashboarding
-Data Visualization
-KPI Design
+* Data Cleaning & Transformation
+* Pivot Tables & Charts
+* Interactive Dashboarding
+* Data Visualization
+* KPI Design
 
 # Purpose of this Project -->
 This project demonstrates my skills in:
-Data Analysis
-Business Reporting
-Excel Dashboard Creation
-Visualization & storytelling
+* Data Analysis
+* Business Reporting
+* Excel Dashboard Creation
+* Visualization & storytelling
